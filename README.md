@@ -1,4 +1,4 @@
-# dependency-review-action
+ # dependency-review-action
 
 - [dependency-review-action](#dependency-review-action)
   - [Overview](#overview)
